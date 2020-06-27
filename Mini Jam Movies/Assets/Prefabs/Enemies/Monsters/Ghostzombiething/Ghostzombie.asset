@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86432a3609aefdb4399557144491257b, type: 3}
+  m_Name: Ghostzombie
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6065511097821826325, guid: b55fe3f67dddf944fa0fbb2a69768c96, type: 3}
+  enemyType: 3
+  movementSpeed: 85
+  sightRange: 10
+  shootingRange: 0
+  backupRange: 0
+  reloadTime: 0
+  canCarryWeapon: 0
+  weaponFindRange: 0
+  spawnWeapons: []
