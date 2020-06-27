@@ -1,0 +1,29 @@
+My first Ludum Dare entry ever!
+
+My Friend N, is an attempt at a story-adventure game. A really really short one :monkey_face: The point was to tell a story about a kid, who adventures in his imaginary worlds after losing contact with his father. N (Nothing) is his imaginary friend who travels with.
+
+I encourage to download the game, since WebGL doesn't support Unity VFX. 
+Otherwise you're missing out on a pretty cool effect in the end! :D
+
+----------
+
+Controls:
+
+-W, A, S, D to move around and the mouse to look around
+
+(((IMPORTANT)))
+-Numberkeys 1, 2 and 3 to answer to dialogue.
+
+-Numberkeys 9 and 0 to decrease / increase mouse sensitivity
+
+-Space to skip the start intro if you don't feel like watching it :P
+
+----------
+
+*Theme clearance*
+
+The theme was "Start with nothing."
+In the game your adventure starts with Nothing (your imaginary friend) on your side!
+
+----------
+
